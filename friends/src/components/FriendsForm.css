@@ -1,0 +1,12 @@
+.form {
+    display: column;
+    text-align: center;
+}
+
+.update-button {
+    text-align: center;
+}
+
+.friend-card, h1 {
+    text-align: center;
+}
